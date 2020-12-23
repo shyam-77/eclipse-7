@@ -1,0 +1,10 @@
+package Conwaygameoflife;
+
+public class Conwaygame {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
